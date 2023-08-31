@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sneakers Grey",
+    "price": 100,
+    "imgUrl": "/images/nike1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sneakers White",
+    "price": 120,
+    "imgUrl": "/images/nike2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sneakers R & B",
+    "price": 110,
+    "imgUrl": "/images/nike3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sneakers Orange",
+    "price": 125,
+    "imgUrl": "/images/nike4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sneakers R & B",
+    "price": 150,
+    "imgUrl": "/images/nike5.jpg"
+  }
+]
