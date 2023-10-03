@@ -1,0 +1,27 @@
+.cart {
+    z-index: 99;
+    background-color: rgba(225, 224, 222, 0.6);
+    top: 0;
+    position: fixed;
+    right: -300px;
+    width: 250px;
+    height: 50vh;
+}
+
+.cart:hover {
+    background-color: rgba(225, 224, 222, 0.93);
+}
+
+.cart.open {
+    right: 0;
+}
+
+.cart-content {
+    padding: 0;
+    list-style-type: none;
+}
+
+.cart ul li {
+    margin-bottom: 10px;
+
+}
